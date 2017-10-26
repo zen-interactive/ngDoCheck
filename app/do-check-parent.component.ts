@@ -1,4 +1,4 @@
-import { Component, Input, DoCheck, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { DoCheckComponent } from './do-check.component';
 
 @Component({
